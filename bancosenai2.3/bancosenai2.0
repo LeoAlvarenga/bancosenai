@@ -1,0 +1,44 @@
+run:
+BANCO SENAI
+
+(1) Exibir Saldo
+(2) Exibir Extrato
+(3) Sacar
+(4) Depositar
+(5) Cadastrar Cliente
+(6) Exibir Cliente
+
+(9) Encerrar
+Entre com a opção: 5
+Digite o nome do Cliente: Leonardo
+
+Digite a data de Nascimento (dd/mm/aaaa): 11/02/1995
+
+Digite o Código de Cliente: 001
+
+BANCO SENAI
+
+(1) Exibir Saldo
+(2) Exibir Extrato
+(3) Sacar
+(4) Depositar
+(5) Cadastrar Cliente
+(6) Exibir Cliente
+
+(9) Encerrar
+Entre com a opção: 6
+As Informações do Cliente são: 
+Nome: Leonardo
+Data de Nasc.: 11/02/1995
+Código: 1
+BANCO SENAI
+
+(1) Exibir Saldo
+(2) Exibir Extrato
+(3) Sacar
+(4) Depositar
+(5) Cadastrar Cliente
+(6) Exibir Cliente
+
+(9) Encerrar
+Entre com a opção: 
